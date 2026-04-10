@@ -89,7 +89,6 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 
 <details>
 <summary>상세 내용 보기</summary>
-<br>
 
 **핵심 구현 사항:**
 
@@ -115,7 +114,6 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 
 <details>
 <summary>상세 내용 보기</summary>
-<br>
 
 **핵심 구현 사항:**
 - 무한 스크롤, 실시간 검색, 드래그 앤 드롭 정렬 등 고도화된 인터랙션 구현
@@ -141,7 +139,6 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 
 <details>
 <summary>상세 내용 보기</summary>
-<br>
 
 **아키텍처 구성:**
 

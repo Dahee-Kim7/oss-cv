@@ -87,9 +87,6 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 
 여행자와 기간을 입력하면 **OpenAI API**가 맞춤 일정을 자동으로 생성해주는 웹앱입니다.
 
-<details>
-<summary>상세 내용 보기</summary>
-
 **핵심 구현 사항:**
 
 - KaKao Maps API 연동으로 지도 기반 인터랙티브 일정 시각화
@@ -101,8 +98,6 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 
 `Next.js` `TypeScript` `Zustand` `Tailwind CSS` `OpenAI API` `KaKao Maps API` `Vercel`
 
-</details>
-
 ---
 
 ### 2. Linklog - 북마크 소셜 공유 서비스
@@ -112,8 +107,6 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 링크를 저장하고 태그로 분류하여 팔로워와 공유하는 큐레이션 SNS입니다.
 프론트엔드 담당이었으나, 백엔드에 대한 관심으로 API 설계 및 DB모델링에도 적극 참여하였습니다.
 
-<details>
-<summary>상세 내용 보기</summary>
 
 **핵심 구현 사항:**
 - 무한 스크롤, 실시간 검색, 드래그 앤 드롭 정렬 등 고도화된 인터랙션 구현
@@ -126,8 +119,6 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 
 `React` `React Query` `Recoil` `Node.js` `Express` `MongoDB`
 
-</details>
-
 ---
 
 ### 3.DeLog - 개발자 기술 블로그 플랫폼
@@ -136,11 +127,6 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 
 풀스택 역량 향상을 목표로 **프론트엔드부터 백엔드, 배포까지 혼자 구축**한 기술 블로그 플랫폼입니다.
 마크다운 에디터 기반 글쓰기, 태그 분류, 댓글, 좋아요 기능을 포함합니다.
-
-<details>
-<summary>상세 내용 보기</summary>
-
-
 
 **아키텍처 구성:**
 
@@ -163,8 +149,6 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 **기술 스택:**
 
 `Next.js` `TypeScript` `Node.js` `Express` `Prisma` `PostSQL` `Supabase` `Railway` `Vercel`
-
-</details>
 
 ---
 
